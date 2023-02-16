@@ -1,3 +1,5 @@
+
+![Agregar un título](https://user-images.githubusercontent.com/117865649/219290455-d8290e3f-e321-4ca7-b42b-ea8286c6e986.png)
 #Problema
 Desarrollar un programa en C que permita jugar el juego “sopa de letras”. Requisitos de la aplicación:
 
